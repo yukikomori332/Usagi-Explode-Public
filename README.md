@@ -3,6 +3,7 @@
 
 ■制作期間  
 2023年12月26日〜2024年1月7日  
+
 ■製作人数  
 1人  
 
@@ -18,7 +19,7 @@ https://github.com/yukikomori332/Usagi-Explode-Public/assets/65884868/e5f288e2-4
 
   
 
-■Unityroom  
+■Unityroom（プレイできるサイト）  
 https://unityroom.com/games/usagi-explode539  
 
 ■実装機能  
